@@ -13,7 +13,4 @@ Credits
 Game assets created by Raunak Sarmacharya
 three.js library developed by Ricardo Cabello
 
-License
-This game is licensed under the MIT license. Feel free to use and modify the code for your own projects.
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Raunak-Sarmacharya/pen/YzjwMdP](https://codepen.io/Raunak-Sarmacharya/pen/YzjwMdP).
-A game using Three.js library
+You can play the game here : https://dont-crash-raunaksarmacharya.netlify.app/
